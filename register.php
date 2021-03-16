@@ -44,10 +44,10 @@
           <form class="d-flex">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" style="font-size:larger; font-family:sans-serif;" href="register.html"><b>Register</b></a>
+                    <a class="nav-link active" style="font-size:larger; font-family:sans-serif;" href="register.php"><b>Register</b></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" style="font-size:larger; font-family:sans-serif;" href="signin.html"><b>SIGN IN</b></a>
+                    <a class="nav-link active" style="font-size:larger; font-family:sans-serif;" href="signin.php"><b>SIGN IN</b></a>
                 </li>
             </ul>
         </form>

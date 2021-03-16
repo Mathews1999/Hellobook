@@ -28,7 +28,7 @@
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="bookhotel.php">Hotel</a></li>
-              <li><a class="dropdown-item" href="bookresort.hphptml">Resort</a></li>
+              <li><a class="dropdown-item" href="bookresort.php">Resort</a></li>
             </ul>
          
           </ul>
